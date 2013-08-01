@@ -1,2 +1,3 @@
 szpy
 ====
+Shopzilla python exercises
